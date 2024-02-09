@@ -30,7 +30,8 @@
 
 ## ➡ Website look:
 
-![Screenshot 2024-02-06 171154](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/c9b36e2a-4afb-448d-97e4-e353b46bb37f)
+![Screenshot 2024-02-10 003137](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/931b1d19-53c5-4c05-98c8-5367bbf7efe9)
+
 
 
 
