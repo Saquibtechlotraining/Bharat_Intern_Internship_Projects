@@ -5,8 +5,10 @@
 ![Offer_Letter_of_Internship](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/921e60f1-bc75-40dc-b6ce-c384612d31a9)
 
 ## For a one-month internship, I was assigned two projects:
-## ① SMS Classifier.
-## ② Titanic Classification.
+① [SMS Spam Classifier](https://github.com/Saquibtechlotraining/Bharat_Intern_Internship_Projects/tree/main/SMS_Classifier_Project)
+
+② [Titanic Classification](https://github.com/Saquibtechlotraining/Bharat_Intern_Internship_Projects/tree/main/Titanic_Classification_Project)
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Project Details Below:
 [Click Here](https://github.com/Saquibtechlotraining/Bharat_Intern_Internship_Projects/blob/main/Bharat%20Intern%20Data%20Science%20(Projects%20Details).pdf)
